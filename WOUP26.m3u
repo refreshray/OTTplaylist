@@ -1,8 +1,25 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV3_150x902_1675158867.webp" group-title="World Cup2026",VTV3
 https://github.com/refreshray/OTTplaylist/raw/refs/heads/main/VTV_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/lzF62BWKgW-VTV6-LOGO-KENHVTVgo-150x90.webp" group-title="World Cup2026",VTV6
 https://github.com/refreshray/OTTplaylist/raw/refs/heads/main/VTV_8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV9_150x901_1675158866.webp" group-title="World Cup2026",VTV9
 https://github.com/refreshray/OTTplaylist/raw/refs/heads/main/VTV_9.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="World Cup2026",CCTV 5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="World Cup2026",CCTV 5(1)
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="World Cup2026",CCTV 5+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5hd.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="World Cup2026",ELTA SPORT 1 
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/LshzWQQg/ezgif-5030340034d38082.png" group-title="World Cup2026",NOW SPORTS 618
+http://110.235.59.30:7168/0.ts
