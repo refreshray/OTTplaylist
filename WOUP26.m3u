@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Cup2026",VTV3
+#EXTINF:-1 tvg-id="" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV3_150x902_1675158867.webp" group-title="World Cup2026",VTV3
 https://github.com/refreshray/OTTplaylist/raw/refs/heads/main/VTV_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Cup2026",VTV6
+#EXTINF:-1 tvg-id="" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/lzF62BWKgW-VTV6-LOGO-KENHVTVgo-150x90.webp" group-title="World Cup2026",VTV6
 https://github.com/refreshray/OTTplaylist/raw/refs/heads/main/VTV_8.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Cup2026",VTV9
+#EXTINF:-1 tvg-id="" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV9_150x901_1675158866.webp" group-title="World Cup2026",VTV9
 https://github.com/refreshray/OTTplaylist/raw/refs/heads/main/VTV_9.m3u8
