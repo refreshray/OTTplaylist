@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Cup2026",VTV3
+https://github.com/refreshray/OTTplaylist/raw/refs/heads/main/VTV_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Cup2026",VTV6
+https://github.com/refreshray/OTTplaylist/raw/refs/heads/main/VTV_8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="World Cup2026",VTV9
+https://github.com/refreshray/OTTplaylist/raw/refs/heads/main/VTV_9.m3u8
