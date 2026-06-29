@@ -1,78 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d0YxcDGD/ezgif-17c5fae097935c79.png",NOW SPORTS 1
-##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B21&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQzJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPUtBTkFlZWN4Y3o=
-##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748430.m3u8
-##https://iptv.852851.xyz/ch/cb54507de44f69262ecc8913ed958294/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJhdPZd1/ezgif-71ed08c4bde1fc72.png",MONOMAX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+##https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/44bVTzMv/ezgif-4e06e993537d0f88.png",NOW SPORTS 2
-##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748431.m3u8
-##https://iptv.852851.xyz/ch/f62fe735f8cb6871fe11b6da65ef1704/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs14MDWX/ezgif-5ba5db18b89aaf87.png",NOW SPORTS 3
-##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B23&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQxJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPTV1aUtDR1ROQ0Y=
-##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748432.m3u8
-##https://iptv.852851.xyz/ch/7d47f9714dbb7aa678b76b7d0b83e447/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGL1Kgr3/ezgif-563c0dc758913ed5.png",NOW SPORTS 4
-##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B24&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODQwJmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWVvZVlkanJrVWc=
-##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748433.m3u8
-##https://iptv.852851.xyz/ch/0d49608b8cf594236940c258638e6839/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/h4rhNbLg/ezgif-5ae908f3d7dae30f.png",NOW SPORTS 5
-##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748434.m3u8
-##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B25&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM5JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWx1ME5PZnRHZ2c=
-##https://iptv.852851.xyz/ch/e164c9692d4064f1ddedc3d0c122b392/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMfqM22R/ezgif-5241e05c8c2fce60.png",NOW SPORTS 6
-##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B26&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM4JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVdRNHBpNURUeTM=
-##https://iptv.852851.xyz/ch/e7d67f8f528630b00389ce5d4a65a9ab/master.m3u8
-####http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748435.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKnxtytm/ezgif-54f8afb88189cdfc.png",NOW SPORTS 7
-##http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748436.m3u8
-##https://virtual.anbox.dpdns.org/resolve?session=56525825-2df9-4d08-a94b-22f1f84d32df&channel=NOW%E4%BD%93%E8%82%B27&src=aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldDo4MC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTozQTo5MzpGRCZzdHJlYW09MzgyODM3JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPXJSbWhlMVRzWDc=
-##https://iptv.852851.xyz/ch/951ec11f555e9289166e1e06d1c53ffc/master.m3u8
-##http://110.235.59.30:7169/0.ts
-##http://shatian.7766.org:7169/0.ts
-####http://seatv.xyz/live/AJ1JASYJMX68G3Z/DxPObqOcKG/748437.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZRFn6n1/ezgif-2f46fadfa12b4898.png",NOW SPORTS PRIME
-##https://cdn.19891230.eu.org/hk/now-630/index.m3u8
-##http://42.98.241.116:9241/0.ts
-##http://shangshui2.7766.org:9241/0.ts
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmFCFFVt/ezgif-4ebb9622034dd2cf.png",NOW SPORTS 4K 1
-##https://iptv.852851.xyz/ch/f6b61a20f0861a390ec977b714231f97/master.m3u8
-##http://77.90.60.172:8888/1
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7bv27xkj/ezgif-40c6b28fc2fe4503.png",NOW SPORTS 641
-##https://iptv.852851.xyz/ch/da539034d579bba63d6502d4c996683b/master.m3u8
-##http://77.90.60.172:8888/4
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Df1pyRCc/ezgif-3c55cd691d5ef23a.png",NOW SPORTS 651
-##https://iptv.852851.xyz/ch/61ac05394efb1e85df05cca7df6764ec/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XtBKbR9/ezgif-3f16acef717cf45c.png",NOW SPORTS PREMIER LEAGUE 1
-##https://iptv.852851.xyz/ch/7dc276234091f4819657c1514084bf42/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmYYXGTC/ezgif-10d9d828565b8214.png",NOW SPORTS PREMIER LEAGUE 2
-##https://iptv.852851.xyz/ch/9addc6bbb8551c5dc40e1654b9871405/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmh7yX1C/ezgif-1055a1abc3360fee.png",NOW SPORTS PREMIER LEAGUE 3
-##https://iptv.852851.xyz/ch/a011adc494e53e1bb0456dd82857fd76/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpQwsTyB/ezgif-120f37f9c0d7d036.png",NOW SPORTS PREMIER LEAGUE 4
-##https://iptv.852851.xyz/ch/138e150e94b4e08cdcda4cb1a9272b00/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wGzC1mB/ezgif-45bde40d532a74da.png",NOW SPORTS PREMIER LEAGUE 5
-##https://iptv.852851.xyz/ch/4465baf175c32e7078606b90f4229869/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LshzWQQg/ezgif-5030340034d38082.png",NOW TV 618
-##http://77.90.60.172:8888/5
-##http://shatian.7766.org:7168/0.ts
-##http://110.235.59.30:7168/0.ts
-##https://iptv.852851.xyz/ch/06c3d6b8d55e423e017192cb420ab190/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xWY3ZS9/ezgif-2fcc4104135175a9.png",NOW TV 619
-##https://iptv.852851.xyz/ch/548692242e9c5efc5a0be36de6591a35/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdQvmbLj/ezgif-6fa084533790d652.png",MONO29 PLUS+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+##https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/1080p/index.m3u8
+##https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
