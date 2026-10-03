@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Inception" tvg-logo="https://example.com/posters/inception.jpg" group-title="Movies",Inception (2010)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTMYMETADATA:{"year":"2010","rating":"8.8","mpaa":"PG-13","description":"A thief who steals corporate secrets through the use of dream-sharing technology...","genre":"Thriller, Sci-Fi","duration":"148m"}
+http://your-server.com/movies/inception.mp4
