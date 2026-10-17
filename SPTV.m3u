@@ -12,7 +12,7 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776176&server=_ecdn&source=bon
 #EXTINF:-1 tvg-id="" group-title="FOOTBALL" tvg-logo="", EPL-MAX 2(สำรอง 1) FHD
 http://103.114.203.129:8080/ake/12345/50397
 
-#EXTINF:-1 tvg-id="399511"group-title="FOOTBALL" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Sports-UHD.jpg", ASTRO PREMIER LEAGUE HD (Shareext)
+#EXTINF:-1 tvg-id="397396"group-title="FOOTBALL" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Sports-UHD.jpg", ASTRO PREMIER LEAGUE HD (Shareext)
 http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1163684.m3u8
 #EXTINF:-1 tvg-id="397397"group-title="FOOTBALL" tvg-logo="https://epg.pw/media/images/epg/2024/10/18/20241018013047543202_17.png", ASTRO PREMIER LEAGUE 2 HD (Shareext)
 http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
