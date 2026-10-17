@@ -12,13 +12,13 @@ https://api.plus-server.sbs/play.php?key=1234&id=1776176&server=_ecdn&source=bon
 #EXTINF:-1 tvg-id="" group-title="FOOTBALL" tvg-logo="", EPL-MAX 2(สำรอง 1) FHD
 http://103.114.203.129:8080/ake/12345/50397
 
-#EXTINF:-1 tvg-id="397396"group-title="FOOTBALL" tvg-logo="", ASTRO PREMIER LEAGUE HD (Shareext)
+#EXTINF:-1 tvg-id="397396"group-title="FOOTBALL" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png", ASTRO PREMIER LEAGUE HD (Shareext)
 http://best-8k.org/live/jjyw70ss4w/ek5ui8ithc/1163684.m3u8
-#EXTINF:-1 tvg-id="397397"group-title="FOOTBALL" tvg-logo="", ASTRO PREMIER LEAGUE 2 HD (Shareext)
+#EXTINF:-1 tvg-id="397397"group-title="FOOTBALL" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png", ASTRO PREMIER LEAGUE 2 HD (Shareext)
 http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 tvg-id="397403"group-title="FOOTBALL" tvg-logo="", ASTRO GRANDSTAND HD (Shareext)
+#EXTINF:-1 tvg-id="397403"group-title="FOOTBALL" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png", ASTRO GRANDSTAND HD (Shareext)
 http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07:43
-#EXTINF:-1 tvg-id="397399"group-title="FOOTBALL" tvg-logo="", ASTRO FOOTBALL HD (Shareext)
+#EXTINF:-1 tvg-id="397399"group-title="FOOTBALL" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png", ASTRO FOOTBALL HD (Shareext)
 http://aflaxtv.xyz:8080/live/F33848/cbd9779b/157558.ts
 
 #EXTINF:-1 tvg-id=""group-title="FOOTBALL" tvg-logo="",HUB PREMIER 1 FHD (Shareext)
